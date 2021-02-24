@@ -1,0 +1,13 @@
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\bin\Debug\netcoreapp3.1\employeedetails.exe
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\bin\Debug\netcoreapp3.1\employeedetails.deps.json
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\bin\Debug\netcoreapp3.1\employeedetails.runtimeconfig.json
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\bin\Debug\netcoreapp3.1\employeedetails.runtimeconfig.dev.json
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\bin\Debug\netcoreapp3.1\employeedetails.dll
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\bin\Debug\netcoreapp3.1\employeedetails.pdb
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\obj\Debug\netcoreapp3.1\employeedetails.csprojAssemblyReference.cache
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\obj\Debug\netcoreapp3.1\employeedetails.AssemblyInfoInputs.cache
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\obj\Debug\netcoreapp3.1\employeedetails.AssemblyInfo.cs
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\obj\Debug\netcoreapp3.1\employeedetails.csproj.CoreCompileInputs.cache
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\obj\Debug\netcoreapp3.1\employeedetails.dll
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\obj\Debug\netcoreapp3.1\employeedetails.pdb
+C:\Users\ASTHA JAIN\EmployeeDetails\src\employeedetails\obj\Debug\netcoreapp3.1\employeedetails.genruntimeconfig.cache
